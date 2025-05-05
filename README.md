@@ -26,7 +26,7 @@ I'm a passionate Computer Engineering student at Bandırma Onyedi Eylül Univers
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/fatmagulkadioglu](https://www.kaggle.com/fatmagulkadioglu)
 
-- 💬 Ask me about **Python,SQL,CSS,HTML**
+- 💬 Ask me about **Python,SQL,CSS,HTML,Statistics,Machine Learning,Data Visualization**
 
 - 📫 How to reach me **fatmagulkadioglu@icloud.com**
 
